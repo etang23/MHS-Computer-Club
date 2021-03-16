@@ -1,0 +1,23 @@
+#absolute-example{
+  position: absolute;
+  top: 150px;
+  left: 400px;
+  width: 100px;
+  height: 100px;
+  border: 10px solid black;
+}
+
+#relative-example{
+  position: absolute;
+  top: 75px;
+  left: 20px;
+  width: 50px;
+  height: 100px;
+  border: 10px solid black;
+}
+
+
+img{
+  position: relative;
+  top: 10px;
+}
