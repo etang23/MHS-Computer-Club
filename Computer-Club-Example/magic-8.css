@@ -1,0 +1,16 @@
+body, input {
+    text-align: center;
+    background-color: #DAA520;
+}
+
+#question {
+    border: solid black;
+}
+
+#submit {
+    border: solid black;
+}
+
+#answer {
+    display: inline;
+}
