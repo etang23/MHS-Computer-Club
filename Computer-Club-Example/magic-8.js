@@ -24,6 +24,7 @@ const answers = [
 
 
 
+
 document.getElementById("myForm").addEventListener("submit", function(event) {
     event.preventDefault();
     document.getElementById("answer").innerText = answers[Math.floor(Math.random() * answers.length)];
