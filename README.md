@@ -1,2 +1,2 @@
 # computerclub
-Projects that I worked on when I was in Computer Club.
+Projects that I worked on during Computer Club in high school.
